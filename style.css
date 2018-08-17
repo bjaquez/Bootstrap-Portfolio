@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+    
+}
+
+.navbar-brand {
+    
+    margin-right: 670px;
+}
+
+.card.mb-3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 600px;
+}
+.card-img-tops {
+    height: 300px;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+    background-color: cadetblue;
+}
+
+.card-body {
+    background-color: cadetblue;
+    height: 100px;
+    
+}
+.card-deck {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 50px;
+}
+.form-group {
+    width:700px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 50px;
+}
