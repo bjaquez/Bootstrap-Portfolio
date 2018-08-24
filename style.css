@@ -17,6 +17,9 @@ body {
     background-color: cadetblue;
     height: 100px;    
 }
+.card-title.live {
+    color: white;
+}
 
 .row.row-top {
     margin-bottom: 20px;
