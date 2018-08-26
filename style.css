@@ -35,3 +35,7 @@ body {
     border-color: cadetblue;
 }
 
+.card-img-top {
+    width: 270px;
+    height: 230px;
+}
